@@ -1,4 +1,4 @@
-#include<stdio.h>    
+#include<stdio.h>    test*
 fibanaci()    
 {    
  int n1=0,n2=1,n3,i,number;    
